@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845743146789",
+    "firebase_url": "https://fiam-test-d971d.firebaseio.com",
+    "project_id": "fiam-test-d971d",
+    "storage_bucket": "fiam-test-d971d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845743146789:android:21709cb7052fac2b47fccc",
+        "android_client_info": {
+          "package_name": "com.google.firebase.fiamquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845743146789-oefg5uakkm93laur9bj459giorbg072r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXtAteL6VTlYJMpA6idpqkY1dmN0XUEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845743146789-oefg5uakkm93laur9bj459giorbg072r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
